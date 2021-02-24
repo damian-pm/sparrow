@@ -1,4 +1,4 @@
-# sp
+
 
 Z kolei użytkownicy końcowi mają takie same możliwości dostępu, niezależnie od tego, z jakich zasobów chcą skorzystać oraz ich obecnej lokalizacji.
 
