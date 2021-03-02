@@ -13,3 +13,5 @@ Maze, specjalizująca się w ransomware, która włamała się do setek firm, w 
 Specjaliści oprogramowania ransomware często zamykają jedną operację, aby dołączyć do innej, zamiast całkowicie zakończyć działalność.
 
 Python swoją popularność zawdzięcza łatwej obsłudze (jak na język programowania), a także szerokiemu zastosowaniu. Sprawdza się bowiem w takich zastosowaniach jak: data science, analityka danych, sztuczna inteligencja, deep learning, aplikacje korporacyjne i web development.
+
+Python swoją popularność zawdzięcza łatwej obsłudze (jak na język programowania), a także szerokiemu zastosowaniu. Sprawdza się bowiem w takich zastosowaniach jak: data science, analityka danych, sztuczna inteligencja, deep learning, aplikacje korporacyjne i web development.
