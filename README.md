@@ -14,6 +14,4 @@ Specjaliści oprogramowania ransomware często zamykają jedną operację, aby d
 
 Python swoją popularność zawdzięcza łatwej obsłudze (jak na język programowania), a także szerokiemu zastosowaniu. Sprawdza się bowiem w takich zastosowaniach jak: data science, analityka danych, sztuczna inteligencja, deep learning, aplikacje korporacyjne i web development.
 
-Python swoją popularność zawdzięcza łatwej obsłudze (jak na język programowania), a także szerokiemu zastosowaniu. Sprawdza się bowiem w takich zastosowaniach jak: data science, analityka danych, sztuczna inteligencja, deep learning, aplikacje korporacyjne i web development.
-
 W tym miesiącu Python świętuje swoje 30. urodziny. Jest obecnie drugim co do popularności językiem programowania na świecie. Kilka miesięcy temu w indeksie TIOBE Python przegonił Javę i po raz pierwszy od prawie 20 lat, odkąd działa ten indeks, Java i C nie zajmują dwóch pierwszych miejsc.
